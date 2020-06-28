@@ -1,1 +1,1 @@
-module_botsupport-1.1-26.1-0.15.4-mc1.12.1.jar 1 Ti6cPQPJqwJj70QpSqDBuJYJ1EnoyoH3dt7AtRAKZ9Z7W/HFJEwpZToBscav4iYVRxs4reM8wwU1zYrSjtATSywgDQuVFS6vqreCyBioAHUaIRh9qqliQUTPggCESMoT
+module_botsupport-1.1-26.1-0.15.4-mc1.12.1.jar 1 Ti6cPQPJqwJj70QpSqDBuJYJ1EnoyoH3dt7AtRAKZ9Z7W/HFJEwpZToBscav4iYVGp1Kdqfz5WG3TILZaFUWFy2GahEc9/F+Hd7/Gs87UXEaIRh9qqliQUTPggCESMoT
