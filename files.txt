@@ -1,4 +1,4 @@
-module_botsupport-1.1-26.1-0.15.4-mc1.12.1.jar 1 Ti6cPQPJqwJj70QpSqDBuJYJ1EnoyoH3dt7AtRAKZ9Z7W/HFJEwpZToBscav4iYVGp1Kdqfz5WG3TILZaFUWFy2GahEc9/F+Hd7/Gs87UXEaIRh9qqliQUTPggCESMoT
+module_botsupport-1.1-26.1-0.15.4-mc1.12.1v2.jar 2 Ti6cPQPJqwJj70QpSqDBuJYJ1EnoyoH3dt7AtRAKZ9Z7W/HFJEwpZToBscav4iYVGp1Kdqfz5WG3TILZaFUWFy2GahEc9/F+Hd7/Gs87UXEaIRh9qqliQUTPggCESMoT
 module_basicfunctions-0.1-26.1-0.15.4-mc1.12.1.jar 1 Ti6cPQPJqwJj70QpSqDBuJYJ1EnoyoH3dt7AtRAKZ9Z7W/HFJEwpZToBscav4iYVpLWRTCRBrobS/BOTooGsfp/q+nK2dJbCfj0r9xgt7XUaIRh9qqliQUTPggCESMoT
 ~/mods/baritone-api-forge-1.2.14.jar 1 Ti6cPQPJqwJj70QpSqDBuJYJ1EnoyoH3dt7AtRAKZ9Z7W/HFJEwpZToBscav4iYVUXNeAgTAdeHBlOg/ljCQgcoA4f4e52ZgFY4988zPn4UaIRh9qqliQUTPggCESMoT
 ~/mods/baritone-standalone-forge-1.2.14.jar 1 Ti6cPQPJqwJj70QpSqDBuJYJ1EnoyoH3dt7AtRAKZ9Z7W/HFJEwpZToBscav4iYVPx1WyoEConAx4Mhs5zSpR4vASKy0cXrka+tUTLzBPnMaIRh9qqliQUTPggCESMoT
