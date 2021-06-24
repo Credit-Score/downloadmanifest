@@ -10,7 +10,7 @@ module_basicfunctions-0.1-26.1-0.15.4-mc1.12.1.jar 1 Ti6cPQPJqwJj70QpSqDBuJYJ1En
 ~/liteconfig/common/macros/key.txt 1 Ti6cPQPJqwJj70QpSqDBuJYJ1EnoyoH3dt7AtRAKZ9Z7W/HFJEwpZToBscav4iYVWU2lccWSdAN5udUUaKv/EYHrq+6dKyZI7KJfS4MczWYaIRh9qqliQUTPggCESMoT
 module_clipboard_api26_v0.1.jar 1 Ti6cPQPJqwJj70QpSqDBuJYJ1EnoyoH3dt7AtRAKZ9Z7W/HFJEwpZToBscav4iYVcN2s5PbWWvdcpddpVv6tGHXMBuMMlAUSX9lqmEaS/BUaIRh9qqliQUTPggCESMoT
 module_documentorAPI-0.1-26.1-0.15.4-mc1.12.1.jar 1 Ti6cPQPJqwJj70QpSqDBuJYJ1EnoyoH3dt7AtRAKZ9Z7W/HFJEwpZToBscav4iYVrhQ9TLFaEvJIYz4TgDpKMzAhB+R6yrgac9vzQcPTcEsaIRh9qqliQUTPggCESMoT
-module_fishhookdetection-0.1-26.1-0.15.4-mc1.12.1v11.jar 11 Ti6cPQPJqwJj70QpSqDBuJYJ1EnoyoH3dt7AtRAKZ9Z7W/HFJEwpZToBscav4iYVtT2n4QpABC5DQGLZ8s+BZYqdcvFshxqLi/zVYAXhk/EaIRh9qqliQUTPggCESMoT
+module_fishhookdetection-0.1-26.1-0.15.4-mc1.12.1v12.jar 12 Ti6cPQPJqwJj70QpSqDBuJYJ1EnoyoH3dt7AtRAKZ9Z7W/HFJEwpZToBscav4iYVtT2n4QpABC5DQGLZ8s+BZYqdcvFshxqLi/zVYAXhk/EaIRh9qqliQUTPggCESMoT
 module_entityIterator-1.0.7-26.1-0.15.4-mc1.12.1.jar 1 Ti6cPQPJqwJj70QpSqDBuJYJ1EnoyoH3dt7AtRAKZ9Z7W/HFJEwpZToBscav4iYV4gF3etze7dKqG2iIUYbHN+NMs+4x33u3G6JAVggU0EYaIRh9qqliQUTPggCESMoT
 module_example-0.1-26.1-0.15.4-mc1.12.1.jar 1 Ti6cPQPJqwJj70QpSqDBuJYJ1EnoyoH3dt7AtRAKZ9Z7W/HFJEwpZToBscav4iYVL5H+6z76ExxeHnkIIv4Mb920neIh4y5QApMQc5qXGtoaIRh9qqliQUTPggCESMoT
 module_GetSlotItemExtended-0.4-26.1-0.15.4-mc1.12.1.jar 1 Ti6cPQPJqwJj70QpSqDBuJYJ1EnoyoH3dt7AtRAKZ9Z7W/HFJEwpZToBscav4iYVFvMTVSJ6+BtsWrPspQlotQDngGU5+FvsuagmMHGWTMIaIRh9qqliQUTPggCESMoT
