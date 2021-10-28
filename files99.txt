@@ -16,3 +16,4 @@ module_GetSlotItemExtended-0.4-26.1-0.15.4-mc1.12.1.jar 1 Ti6cPQPJqwJj70QpSqDBuJ
 module_helper-0.1.1-26.1-0.15.4-mc1.12.1.jar 1 Ti6cPQPJqwJj70QpSqDBuJYJ1EnoyoH3dt7AtRAKZ9Z7W/HFJEwpZToBscav4iYV2V8xHxAuacBUAyCIg1o3H9I7mRI++0BIQC618lQwjxkaIRh9qqliQUTPggCESMoT
 module_invutils-0.3.0-26.1-0.15.4-mc1.12.1.jar 1 Ti6cPQPJqwJj70QpSqDBuJYJ1EnoyoH3dt7AtRAKZ9Z7W/HFJEwpZToBscav4iYViWXBqFTvInQBpzNbtxjspiYHTZLvmwsLTg324z1mmBsaIRh9qqliQUTPggCESMoT
 module_notifications-1.0-26.1-0.15.4-mc1.12.1.jar 1 Ti6cPQPJqwJj70QpSqDBuJYJ1EnoyoH3dt7AtRAKZ9Z7W/HFJEwpZToBscav4iYVak+7D3eV1Jm8qKqAdNzxaCuqNaqVGulhJ9svnpskiIgaIRh9qqliQUTPggCESMoT
+~/mods/foamfix-1.12.2.jar 1 Ti6cPQPJqwJj70QpSqDBuJYJ1EnoyoH3dt7AtRAKZ9Z7W/HFJEwpZToBscav4iYVvmcQdApsbTdBhoQoB4mJbkNVuqKOv1HCBiJjCwJiS5AaIRh9qqliQUTPggCESMoT
